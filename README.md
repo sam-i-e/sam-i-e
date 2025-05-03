@@ -1,9 +1,10 @@
 
-## Hi, I'm Samow
+## Hi, I'm Samow || The Pixel Alchemist
 
 I build software for the modern day<br/> 
 Stuff that gives solutions to real world problems<br/>
 I don’t just write code—I forge digital spells to bend browsers to my will. Specializing in transmuting caffeinated chaos into pixel-perfect UI potions, with a dash of CSS necromancy (don’t ask about the skeletons in my grid-template-columns)<br/>
+
 I like taking aesthetic pictures too. Catch me on [Instagram](https://www.instagram.com/sam.o.w/)
 
 
