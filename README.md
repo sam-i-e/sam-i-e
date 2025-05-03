@@ -6,11 +6,11 @@ Stuff that gives solutions to real world problems<br/>
 I don’t just write code—I forge digital spells to bend browsers to my will. Specializing in transmuting caffeinated chaos into pixel-perfect UI potions, with a dash of CSS necromancy (don’t ask about the skeletons in my grid-template-columns)<br/>
 Let’s Collab on:
 
-    Projects that make the web feel like a playground, not a spreadsheet.
+* Projects that make the web feel like a playground, not a spreadsheet.
 
-    Ethical dark patterns (to dismantle them, obviously).
+* Ethical dark patterns (to dismantle them, obviously).
 
-    Anything involving SVG, WebGL, or an excuse to use position: sticky in 3D space.
+* Anything involving SVG, WebGL, or an excuse to use position: sticky in 3D space.
 
 I like taking aesthetic pictures too. Catch me on [Instagram](https://www.instagram.com/sam.o.w/)
 
