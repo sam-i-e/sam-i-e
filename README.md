@@ -17,7 +17,7 @@ I like taking aesthetic pictures too. Catch me on [Instagram](https://www.instag
 
 ## 🌐 Socials:
 Find Me:
-Crafting interfaces that spark joy (or mild confusion) from a cozy cave in Kenya.
+Crafting interfaces that spark joy (or mild confusion) from a cozy cave in Kenya.<br/>
 P.S. Ask me about my theory that frontend dev is just performance art for robots. 🎨🤖
 
         if (you.love(quirkyCode || webExperiments)) {  
