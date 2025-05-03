@@ -16,6 +16,13 @@ I like taking aesthetic pictures too. Catch me on [Instagram](https://www.instag
 
 
 ## 🌐 Socials:
+Find Me:
+Crafting interfaces that spark joy (or mild confusion) from a cozy cave in Kenya.
+P.S. Ask me about my theory that frontend dev is just performance art for robots. 🎨🤖
+
+        if (you.love(quirkyCode || webExperiments)) {  
+          await connect(); // Let’s break browsers responsibly  
+        }  
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sam0w.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/SamOpar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sam.o.w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samopar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SamOpar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/samow) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/SamOpar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/5amie_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/samopar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SamOpar_) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Sam-Opar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@samow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sam.opar@outlook.com) 
 
 # 💻 Tech Stack:
