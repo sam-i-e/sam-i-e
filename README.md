@@ -1,4 +1,4 @@
-.## Hi, I'm Samow || The Pixel Alchemist
+## Hi, I'm Samow || The Pixel Alchemist
 
 I build software for the modern day<br/> 
 Stuff that gives solutions to real world problems<br/>
