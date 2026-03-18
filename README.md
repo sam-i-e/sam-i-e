@@ -11,7 +11,7 @@ Let’s Collab on:
 
 * Anything involving SVG, WebGL, or an excuse to use position: sticky in 3D space.
 
-I like taking aesthetic pictures too. Catch me on [Instagram](https://www.instagram.com/sam.o.w/) & I also like cars.........................................a lot
+I like taking aesthetic pictures too. Catch me on [Instagram](https://www.instagram.com/sam.o.w/) & I also like cars..........................................a lot
 
 
 ## 🌐 Socials:
