@@ -7,7 +7,7 @@ Let’s Collab on:
 .
 * Projects that make the web feel like a playground, not a spreadsheet.
 
-* Ethical dark patterns (to dismantle them, obviously)..
+* Ethical dark patterns (to dismantle them, obviously).
 
 * Anything involving SVG, WebGL, or an excuse to use position: sticky in 3D space.
 
